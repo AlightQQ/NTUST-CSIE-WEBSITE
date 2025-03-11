@@ -158,7 +158,7 @@ body, html {
 }
  #cp img  {
   width: 800px;
-  height: 450px!important;
+  height: 450px;
   object-fit:cover;
 }
 .carousel-indicators {
